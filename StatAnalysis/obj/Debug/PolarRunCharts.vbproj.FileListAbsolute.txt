@@ -1,0 +1,44 @@
+C:\Users\MRosenbaum\Desktop\Polar Pump Rundown Charts\StatAnalysis\StatAnalysis\obj\Debug\PolarRunCharts.vbprojResolveAssemblyReference.cache
+C:\Users\MRosenbaum\Desktop\Polar Pump Rundown Charts\StatAnalysis\StatAnalysis\obj\Debug\PolarRunCharts.vbproj.ResolveComReference.cache
+C:\Users\MRosenbaum\Desktop\Polar Pump Rundown Charts\StatAnalysis\StatAnalysis\obj\Debug\PolarRunCharts.vbproj.GenerateResource.Cache
+C:\Users\MRosenbaum\Desktop\Polar Pump Rundown Charts\StatAnalysis\StatAnalysis\bin\Debug\PolarRunCharts.exe.config
+C:\Users\MRosenbaum\Desktop\Polar Pump Rundown Charts\StatAnalysis\StatAnalysis\bin\Debug\PolarRunCharts.exe.manifest
+C:\Users\MRosenbaum\Desktop\Polar Pump Rundown Charts\StatAnalysis\StatAnalysis\bin\Debug\PolarRunCharts.application
+C:\Users\MRosenbaum\Desktop\Polar Pump Rundown Charts\StatAnalysis\StatAnalysis\bin\Debug\PolarRunCharts.exe
+C:\Users\MRosenbaum\Desktop\Polar Pump Rundown Charts\StatAnalysis\StatAnalysis\bin\Debug\PolarRunCharts.pdb
+C:\Users\MRosenbaum\Desktop\Polar Pump Rundown Charts\StatAnalysis\StatAnalysis\bin\Debug\PolarRunCharts.xml
+C:\Users\MRosenbaum\Desktop\Polar Pump Rundown Charts\StatAnalysis\StatAnalysis\obj\Debug\PolarRunCharts.Form1.resources
+C:\Users\MRosenbaum\Desktop\Polar Pump Rundown Charts\StatAnalysis\StatAnalysis\obj\Debug\PolarRunCharts.Resources.resources
+C:\Users\MRosenbaum\Desktop\Polar Pump Rundown Charts\StatAnalysis\StatAnalysis\obj\Debug\PolarRunCharts.TrustInfo.xml
+C:\Users\MRosenbaum\Desktop\Polar Pump Rundown Charts\StatAnalysis\StatAnalysis\obj\Debug\PolarRunCharts.exe.manifest
+C:\Users\MRosenbaum\Desktop\Polar Pump Rundown Charts\StatAnalysis\StatAnalysis\obj\Debug\PolarRunCharts.application
+C:\Users\MRosenbaum\Desktop\Polar Pump Rundown Charts\StatAnalysis\StatAnalysis\obj\Debug\PolarRunCharts.exe
+C:\Users\MRosenbaum\Desktop\Polar Pump Rundown Charts\StatAnalysis\StatAnalysis\obj\Debug\PolarRunCharts.xml
+C:\Users\MRosenbaum\Desktop\Polar Pump Rundown Charts\StatAnalysis\StatAnalysis\obj\Debug\PolarRunCharts.pdb
+C:\Users\MRosenbaum\GitProjects\PolarRunCharts\StatAnalysis\obj\Debug\PolarRunCharts.vbproj.ResolveComReference.cache
+C:\Users\MRosenbaum\GitProjects\PolarRunCharts\StatAnalysis\obj\Debug\PolarRunCharts.vbprojResolveAssemblyReference.cache
+C:\Users\MRosenbaum\GitProjects\PolarRunCharts\StatAnalysis\obj\Debug\PolarRunCharts.Form1.resources
+C:\Users\MRosenbaum\GitProjects\PolarRunCharts\StatAnalysis\obj\Debug\PolarRunCharts.Resources.resources
+C:\Users\MRosenbaum\GitProjects\PolarRunCharts\StatAnalysis\obj\Debug\PolarRunCharts.vbproj.GenerateResource.Cache
+C:\Users\MRosenbaum\GitProjects\PolarRunCharts\StatAnalysis\bin\Debug\PolarRunCharts-MultipleModels.exe.config
+C:\Users\MRosenbaum\GitProjects\PolarRunCharts\StatAnalysis\bin\Debug\PolarRunCharts-MultipleModels.exe.manifest
+C:\Users\MRosenbaum\GitProjects\PolarRunCharts\StatAnalysis\bin\Debug\PolarRunCharts-MultipleModels.application
+C:\Users\MRosenbaum\GitProjects\PolarRunCharts\StatAnalysis\bin\Debug\PolarRunCharts-MultipleModels.exe
+C:\Users\MRosenbaum\GitProjects\PolarRunCharts\StatAnalysis\bin\Debug\PolarRunCharts-MultipleModels.pdb
+C:\Users\MRosenbaum\GitProjects\PolarRunCharts\StatAnalysis\bin\Debug\PolarRunCharts-MultipleModels.xml
+C:\Users\MRosenbaum\GitProjects\PolarRunCharts\StatAnalysis\obj\Debug\PolarRunCharts-MultipleModels.TrustInfo.xml
+C:\Users\MRosenbaum\GitProjects\PolarRunCharts\StatAnalysis\obj\Debug\PolarRunCharts-MultipleModels.exe.manifest
+C:\Users\MRosenbaum\GitProjects\PolarRunCharts\StatAnalysis\obj\Debug\PolarRunCharts-MultipleModels.application
+C:\Users\MRosenbaum\GitProjects\PolarRunCharts\StatAnalysis\obj\Debug\PolarRunCharts-MultipleModels.exe
+C:\Users\MRosenbaum\GitProjects\PolarRunCharts\StatAnalysis\obj\Debug\PolarRunCharts-MultipleModels.xml
+C:\Users\MRosenbaum\GitProjects\PolarRunCharts\StatAnalysis\obj\Debug\PolarRunCharts-MultipleModels.pdb
+C:\Users\MRosenbaum\GitProjects\New folder\StatAnalysis\bin\Debug\PolarRunCharts-MultipleModels.exe.config
+C:\Users\MRosenbaum\GitProjects\New folder\StatAnalysis\obj\Debug\PolarRunCharts.vbproj.ResolveComReference.cache
+C:\Users\MRosenbaum\GitProjects\New folder\StatAnalysis\obj\Debug\PolarRunCharts-MultipleModels.exe
+C:\Users\MRosenbaum\GitProjects\New folder\StatAnalysis\obj\Debug\PolarRunCharts-MultipleModels.xml
+C:\Users\MRosenbaum\GitProjects\New folder\StatAnalysis\obj\Debug\PolarRunCharts-MultipleModels.pdb
+C:\Users\MRosenbaum\GitProjects\PolarRunChartsMultiple\StatAnalysis\bin\Debug\PolarRunCharts-MultipleModels.exe.config
+C:\Users\MRosenbaum\GitProjects\PolarRunChartsMultiple\StatAnalysis\obj\Debug\PolarRunCharts.vbproj.ResolveComReference.cache
+C:\Users\MRosenbaum\GitProjects\PolarRunChartsMultiple\StatAnalysis\obj\Debug\PolarRunCharts-MultipleModels.exe
+C:\Users\MRosenbaum\GitProjects\PolarRunChartsMultiple\StatAnalysis\obj\Debug\PolarRunCharts-MultipleModels.xml
+C:\Users\MRosenbaum\GitProjects\PolarRunChartsMultiple\StatAnalysis\obj\Debug\PolarRunCharts-MultipleModels.pdb
